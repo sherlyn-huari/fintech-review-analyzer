@@ -1,4 +1,6 @@
 # Digital Payment Apps - User Sentiment Analyzer
+![Dashboard](dashboard.png)
+
 ## What is this?
 Analysis of 899 Google Play reviews from WhatsApp, Paypal, and CashApp to identify user pain points and product improvement opportunities.
 
